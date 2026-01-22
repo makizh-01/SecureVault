@@ -1,0 +1,8 @@
+
+{
+  "name": "SecureVault Premium Banking",
+  "description": "An elite, high-security banking experience featuring AI-powered threat detection and ultra-secure asset management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
